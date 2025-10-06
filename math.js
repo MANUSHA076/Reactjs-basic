@@ -16,3 +16,6 @@ const user = {
 
 export { add, user };
 ////jbhgcvbn//
+
+//aluth graph eke haduwa 
+//aliuth eka balnna
